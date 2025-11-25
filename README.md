@@ -1,4 +1,4 @@
-# Vidya Padmanabha 🇮🇳🇩🇪
+# Vidya Padmanabha
 # <div align="center">Master's AI Student @ THWS | Ex-Software Engineer</div>
 
 <div align="center">
@@ -101,7 +101,7 @@ This section is organized by specialty to showcase my full-stack and AI capabili
 ## 🤝 Connect & Languages
 
 <div align="center">
-    <p><strong>Languages:</strong> English (IELTS 7) | German (B1) | [cite_start]Kannada/Hindi [cite: 141, 149]</p>
+    <p><strong>Languages:</strong> English (IELTS 7) | German (B1- INTERMEDIATE) | </p>
     <br>
     <a href="mailto:vidyapadmanabha13@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
