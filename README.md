@@ -14,7 +14,7 @@
   <p width="600px">
     I am a <strong>Master's Student in Artificial Intelligence</strong> based in Würzburg, Germany, with a background as a <strong>Software Engineer</strong>.
     <br><br>
-    My expertise lies in bridging the gap between robust system architecture and modern Deep Learning. I have professional experience optimizing cloud-based deployment systems (<strong>Docker, RabbitMQ</strong>) and am currently researching <strong>Computer Vision</strong> and <strong>Metric Learning</strong>.
+    My expertise lies in bridging the gap between robust system architecture and modern Deep Learning. I have professional experience optimizing cloud-based deployment systems (<strong>Docker, RabbitMQ</strong>) and am currently exploring my ways into the <strong>AI World</strong>.
   </p>
 </div>
 
