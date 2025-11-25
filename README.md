@@ -74,9 +74,9 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vidyap13&show_icons=true&theme=radical&hide_border=true" alt="Vidya's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VidyaP13&show_icons=true&theme=radical&hide_border=true" alt="Vidya's Stats" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vidyap13&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=VidyaP13&color=blue&style=flat-square" alt="Profile views" />
 </div>
