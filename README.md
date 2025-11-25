@@ -74,7 +74,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VidyaP13&show_icons=true&theme=radical&hide_border=true" alt="Vidya's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vidyap13&theme=radical&hide_border=true" alt="Vidya's Streak" />
 </div>
 
 <div align="center">
