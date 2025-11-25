@@ -74,7 +74,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vidyap13&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=239120&text_color=000" alt="Vidya's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vidyap13&show_icons=true&theme=radical&hide_border=true" alt="Vidya's Stats" />
 </div>
 
 <div align="center">
