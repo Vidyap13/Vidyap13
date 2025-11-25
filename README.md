@@ -74,9 +74,5 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vidyap13&theme=radical&hide_border=true" alt="Vidya's Streak" />
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=VidyaP13&color=blue&style=flat-square" alt="Profile views" />
 </div>
